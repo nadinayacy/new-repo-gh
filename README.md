@@ -2,3 +2,4 @@
 # build-image-github
 # simple-add-github
 # simple-app-github
+# self-hosted
